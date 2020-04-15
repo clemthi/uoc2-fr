@@ -1,0 +1,98 @@
+### TOOLTIPS
+
+# tooltips
+id_tooltip_gamebar_menu: Menu de jeu principal
+
+### SCENARIOS
+
+
+
+### CITIES
+
+
+
+### UI
+
+
+
+### TUTORIAL
+
+
+
+### OBJECTIVES
+
+
+
+### MENUS
+id_fra: Français
+
+# common
+id_back: Retour
+id_cancel: Annuler
+id_continue: Continuer
+id_close: Fermer
+id_next: Suivant
+
+# main screen
+id_new_game: Nouvelle partie
+id_open_save_dir: Open Saved Games Folder
+id_tutorial: Tutoriel
+id_options: Options
+id_quit: Quitter
+id_subgroup_tools: OUTILS
+id_scenario_editor: Editeur de Scenario
+id_map_editor: Editeur de carte
+id_subgroup_misc: DIVERS
+id_stats: Stats
+id_credits: Crédits
+
+
+# main screen selectors
+id_subgroup_continue_campaign: CONTINUER CAMPAGNE
+id_subgroup_continue_scenario: CONTINUER SCENARIO
+id_subgroup_continue_autosaves: SAUVE. AUTO.
+id_subgroup_new_campaign: NOUVELLE CAMPAGNE
+id_subgroup_new_game: NOUVEAU SCENARIO
+id_subgroup_tutorial: CAMPAGNE TUTORIELLE
+id_subgroup_advanced_tutorials: TUTORIELS AVANCES
+id_subgroup_basic_tutorials: TUTORIELS DE BASE
+id_subgroup_new_scenario: NOUVEAU SCENARIO
+id_subgroup_new_map: NEW MAP
+id_subgroup_edit_map: EDIT MAP
+id_start_tutorial: Start Tutorial
+id_continue_tutorial: Continuer
+
+### ENTITIES
+
+
+
+### SCENARIO_DATA
+
+id_campaign_name_c_tutorial_p_base: Campagne Tutoriel
+id_campaign_name_c_west_p_base: Victoire à l'Ouest
+
+### CAMPAIGN
+
+
+### HOS
+
+
+
+### REMINDERS
+
+
+
+### CARDS
+
+
+
+### ACHIEVEMENTS
+
+
+
+### IN_WORLD
+
+
+
+### CINEMATIC
+
